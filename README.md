@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Pavan Kumar Patruni</h1>
-<h3 align="center">As the Engineering Manager at BharatPe, I guide the mobile and web teams to drive innovative solutions in the FinTech sector. I have strong expertise in JavaScript, React, React Native, Android, iOS, Java, Spring, and Kafka. I have successfully launched a range of significant products and features, including BharatPe UPI, BharatPe for Business, Invest BharatPe, Lending Products, BharatPe Rewards, BharatSwipe, Insurance V2, the Financing Dashboard, and the BharatPe Credit Website. In addition, I co-founded initiatives such as Heartynote, SaveChey, and ShortChey, and I’ve contributed various libraries and tools to GitHub, including Valiy, Utileo, and Nested Comments. As a self-taught and passionate developer, I am dedicated to continuously enhancing my expertise, refining my skills, and integrating</h3>
+<h1>Hi 👋, I'm Pavan Kumar Patruni</h1>
+<h3>As an Engineering Manager at BharatPe, I oversee the lending, payments gateway, and native teams, driving innovative FinTech solutions. My technical expertise includes JavaScript, React, React Native, Android, iOS, Java, Spring, and Kafka.
 
-- 👨‍💻 All of my projects are available at [https://www.pavanpathro.com/](https://www.pavanpathro.com/), [https://www.pavankumar-patruni.com/](https://www.pavankumar-patruni.com/)
+I have successfully delivered transformative products and features, including BharatPe UPI, BharatPe for Business, Invest BharatPe, Lending Solutions, BharatPe Rewards, BharatSwipe, Insurance V2, the Financing Dashboard, and the BharatPe Credit Website.
 
-- 📝 I regularly write articles on [https://medium.com/@pavankumar-patruni](https://medium.com/@pavankumar-patruni)
+Outside BharatPe, I co-founded projects like Heartynote, SaveChey, and ShortChey, while actively contributing to the developer community with tools and libraries such as Valiy, Utileo, and Nested Comments on GitHub. A self-taught and passionate developer, I remain dedicated to continuous learning, honing my skills, and fostering innovation.</h3>
 
-- 📫 How to reach me **pavanpathro@gmail.com**
+- 👨‍💻 Portfolio: [https://www.pavanpathro.com/](https://www.pavanpathro.com/), [https://www.pavankumar-patruni.com/](https://www.pavankumar-patruni.com/)
+
+- 📝 Blogs on Medium: [https://medium.com/@pavankumar-patruni](https://medium.com/@pavankumar-patruni)
+
+- 📫 Contact: **pavanpathro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
