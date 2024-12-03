@@ -14,14 +14,16 @@ As an Engineering Manager at BharatPe, I oversee the lending, payments gateway, 
 ![](https://github-readme-stats.vercel.app/api?username=pavankumar-patruni&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pavankumar-patruni&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumar-patruni&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pavankumar-patruni&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pavankumar-patruni&icon=6&color=6)](https://visitcount.itsvg.in)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
